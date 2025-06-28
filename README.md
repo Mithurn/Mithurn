@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Mithurn/Mithurn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<h1 align="center">Hey, I'm Mithurn Jeromme 👋</h1>
+<h1 align="center">Hey, I'm Mithurn Jeromme 👋</h1>
 <p align="center">
   Full-Stack Developer • AIoT Explorer • Gym Rat 🧠⚡🏋️‍♂️
 </p>
@@ -71,4 +66,4 @@ I'm a Computer Science student passionate about **building impactful software** 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
