@@ -46,9 +46,9 @@ I'm a Computer Science student passionate about **building impactful software** 
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mithurnjeromme)
-[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/yourhandle)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mk6957@srmist.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/mithurnjeromme](https://www.linkedin.com/in/mithurn-jeromme-s-k/))
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)]([https://twitter.com/yourhandle](https://x.com/Mithurn_Jeromme))
+[![Mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mithurnjeromme172@gmail.com)
 
 ---
 
