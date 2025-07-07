@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Mithurn Jeromme 👋</h1>
 <p align="center">
-  Full-Stack Developer • AIoT Explorer • Gym Rat 🧠⚡🏋️‍♂️
+  Full-Stack Developer • AIoT 
 </p>
 
 ---
@@ -12,7 +12,7 @@ I'm a Computer Science student passionate about **building impactful software** 
 - 🔧 I build **full-stack web apps** that solve real problems
 - 🤖 I tinker with **embedded systems**, **IoT devices**, and **ESP32/MCUs**
 - 🧪 I love experimenting with **Postman**, APIs, and cloud-connected systems
-- 💪 When I’m not building tech, I’m probably building muscle 😎
+
 
 ---
 
@@ -52,8 +52,7 @@ I'm a Computer Science student passionate about **building impactful software** 
 
 ---
 
-### ⚡ Fun Fact
 
-> Code hard, lift harder. Reps in the gym and reps on Git — both make you stronger.
+
 
 
