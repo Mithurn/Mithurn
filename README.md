@@ -75,5 +75,4 @@ I’ve built solutions for **farmers, hospitals, and productivity nerds** — an
 
 <p align="center">
   <img src="https://media1.tenor.com/m/W8haesvUr3wAAAAC/iron-man-marvel.gif" width="300px" />
-  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </p>
