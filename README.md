@@ -6,7 +6,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
 
-<img align="right" width=200px alt="robot" src="https://media.tenor.com/7zW0X2IoC9QAAAAC/ai-robot.gif"/>
+<img align="right" width="220px"  alt="cyberpunk hacker gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhxZW8yamQ0ZmpiN3QxejJveHBycHdhcGNsbGxzOXF6MzZyaTdueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"/>
 
 I'm a passionate **Computer Science** student at SRM IST (CGPA: 8.83), with a strong focus on Full Stack Development, AI/ML, and Embedded Systems.  
 I’ve built solutions for **farmers, hospitals, and productivity nerds** — and I’m just getting started.
@@ -18,14 +18,14 @@ I’ve built solutions for **farmers, hospitals, and productivity nerds** — an
 - Outside tech, I like Hitting the Gym, 🎵 listening to music, and I also love making new things all the time.
 - 📫 Reach me at: <a href="mailto:mithurnjeromme172@email.com">mithurnjeromme172@email.com</a>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Profile Trophies -->
 <div align="center" style="margin-top: 40px; margin-bottom: 40px;">
   <img src="https://github-profile-trophy.vercel.app/?username=Mithurn&theme=darkhub&no-bg=true&margin-w=10&title=Commit,PullRequest,Repositories,MultiLanguage" width="90%" />
 </div>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Social Links -->
 <div align="center">
@@ -34,7 +34,9 @@ I’ve built solutions for **farmers, hospitals, and productivity nerds** — an
   <a href="https://github.com/Mithurn"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" /></a>
 </div>
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk5djY1NWR3OWE5bjk4bXJvdWJsb3Iza2N2dWJwdTg5czhvMGcxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif" width="220px" alt="coding gif" />
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30">&nbsp; ***Skills***
 
@@ -59,7 +61,7 @@ I’ve built solutions for **farmers, hospitals, and productivity nerds** — an
 ![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif)&nbsp;
 ![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
 
@@ -69,10 +71,9 @@ I’ve built solutions for **farmers, hospitals, and productivity nerds** — an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithurn&layout=compact&theme=radical" />
 </p>
 
----
-
-<img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-<img alt="visitors counter" src="https://profile-counter.glitch.me/Mithurn/count.svg">
-<img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/W8haesvUr3wAAAAC/iron-man-marvel.gif" width="300px" />
+  <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+</p>
