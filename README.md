@@ -17,6 +17,7 @@ I’ve built solutions for **farmers, hospitals, and productivity nerds** — an
 - 👨‍💻 Open to collaboration in open-source AI & web projects
 - Outside tech, I like Hitting the Gym, 🎵 listening to music, and I also love making new things all the time.
 - 📫 Reach me at: <a href="mailto:mithurnjeromme172@email.com">mithurnjeromme172@email.com</a>
+- More about me: https://portfolio-tan-six-39.vercel.app
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
