@@ -41,8 +41,12 @@ I’ve built solutions for **farmers, hospitals, and productivity nerds** — an
 
 <div>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /> &nbsp;  
+
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk5djY1NWR3OWE5bjk4bXJvdWJsb3Iza2N2dWJwdTg5czhvMGcxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif" width="220px" alt="coding gif" />
+
 ### 💡 **Skills**
+
+
 
 #### 👨‍💻 Languages & Core
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -68,7 +72,7 @@ I’ve built solutions for **farmers, hospitals, and productivity nerds** — an
 </div>
 
 <!-- GIF right and vertically centered -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk5djY1NWR3OWE5bjk4bXJvdWJsb3Iza2N2dWJwdTg5czhvMGcxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif" width="220px" alt="coding gif" />
+
 
 </div>
 
