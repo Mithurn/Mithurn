@@ -22,9 +22,8 @@ I’ve built solutions for **farmers, hospitals, and productivity nerds** — an
 
 <!-- Profile Trophies -->
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mithurn&theme=darkhub&row=1&column=7&no-bg=true&margin-w=5" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mithurn&theme=darkhub&no-bg=true&margin-w=10&title=Commit,PullRequest,Repositories,MultiLanguage" width="90%" />
 </div>
-
 ---
 
 <!-- Social Links -->
