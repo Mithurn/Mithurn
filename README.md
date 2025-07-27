@@ -1,40 +1,77 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center">Hi 👋, I'm Mithurn Jeromme</h1>
-<h3 align="center">A Full Stack & AI/Embedded Developer from India — solving real-world problems with code 🚀</h3>
+<h1><b>Hi there, I'm </b><a href="https://github.com/Mithurn">Mithurn Jeromme</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithurn" alt="mithurn" /></a> </p>
+<br>
 
-- 🔭 I’m currently working on **Krishi Rakshak — An AI-powered multilingual bot to protect farmers and crops**
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
 
-- 🌱 I’m currently learning **Hugging Face Transformers**
+<img align="right" width=200px alt="robot" src="https://media.tenor.com/7zW0X2IoC9QAAAAC/ai-robot.gif"/>
 
-- 👯 I’m looking to collaborate on **Open-source AI tools, real-time robotics, or impactful health/edu tech**
+I'm a passionate **Computer Science** student at SRM IST (CGPA: 8.83), with a strong focus on Full Stack Development, AI/ML, and Embedded Systems.  
+I’ve built solutions for **farmers, hospitals, and productivity nerds** — and I’m just getting started.
 
-- 🤝 I’m looking for help with **embedded vision systems**
+- 🌱 I’m currently learning: *Zustand*, *Hugging Face*, *Prompt Engineering*, *Embedded AI*
+- 💼 Freelancing: Web apps, AI tools & bots  
+- ⚡ Fun fact: My crop AI bot speaks more languages than I do
+- 👨‍💻 Open to collaboration in open-source AI & web projects
+- 📫 Reach me at: <a href="mailto:mithurnjeromme172@email.com">mithurnjeromme172@email.com</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mithurn](https://github.com/Mithurn)
+---
 
-- 📝 I regularly write articles on [www.linkedin.com/in/mithurn-jeromme-s-k](www.linkedin.com/in/mithurn-jeromme-s-k)
+<!-- Profile Trophies -->
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mithurn&theme=darkhub&row=1&column=7&no-bg=true&margin-w=5" width="90%" />
+</div>
 
-- 💬 Ask me about **React, Prompt Engineering, Full-Stack Apps, Embedded AI, Computer Vision**
+---
 
-- 📫 How to reach me **mithurnjeromme172@gmail.com**
+<!-- Social Links -->
+<div align="center">
+  <a href="mailto:mithurnjeromme172@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/mithurn-jeromme-s-k"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://github.com/Mithurn"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" /></a>
+</div>
 
-- 📄 Know about my experiences [https://portfolio-tan-six-39.vercel.app/resume/Mithurn_s_Resume.pdf](https://portfolio-tan-six-39.vercel.app/resume/Mithurn_s_Resume.pdf)
+---
 
-- ⚡ Fun fact **I’m training my AI to understand sarcasm — wish me luck**
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30">&nbsp; ***Skills***
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mithurn jeromme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithurn jeromme" height="30" width="40" /></a>
-<a href="https://instagram.com/_mj_177_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mj_177_" height="30" width="40" /></a>
+###### Languages & Core:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+###### Frameworks / Libraries:
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=hugging-face&logoColor=black)
+
+###### Tools & Platforms:
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif)&nbsp;
+![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithurn&theme=radical&show_icons=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithurn&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithurn&layout=compact&theme=radical" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithurn&show_icons=true&locale=en&layout=compact" alt="mithurn" /></p>
+<img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+<img alt="visitors counter" src="https://profile-counter.glitch.me/Mithurn/count.svg">
+<img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithurn&show_icons=true&locale=en" alt="mithurn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithurn&" alt="mithurn" /></p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
