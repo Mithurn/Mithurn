@@ -21,9 +21,10 @@ I’ve built solutions for **farmers, hospitals, and productivity nerds** — an
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Profile Trophies -->
-<div align="center" style="margin-top: 40px; margin-bottom: 40px;">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mithurn&theme=darkhub&no-bg=true&margin-w=10&title=Commit,PullRequest,Repositories,MultiLanguage" width="90%" />
-</div>
+</p>
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
