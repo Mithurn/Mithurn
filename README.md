@@ -8,14 +8,13 @@
 
 <img align="right" width="220px"  alt="cyberpunk hacker gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhxZW8yamQ0ZmpiN3QxejJveHBycHdhcGNsbGxzOXF6MzZyaTdueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"/>
 
-I'm a passionate **Computer Science** student at SRM IST (CGPA: 8.83), with a strong focus on Full Stack Development, AI/ML, and Embedded Systems.  
-I’ve built solutions for **farmers, hospitals, and productivity nerds** — and I’m just getting started.
-
-- 🌱 I’m currently learning: *Zustand*, *Hugging Face*, *Prompt Engineering*, *Embedded AI*
-- 💼 Freelancing: Web apps, AI tools & bots  
-- ⚡ Fun fact: My crop AI bot speaks more languages than I do
-- 👨‍💻 Open to collaboration in open-source AI & web projects
-- Outside tech, I like Hitting the Gym, 🎵 listening to music, and I also love making new things all the time.
+🌟 Mithun Jeromme — CS student at SRM IST, obsessed with crafting cool stuff like beautifull websites, AI bots and useful chrome extensions that make a difference.
+🚀 I build impactful solutions—think RAKT-RADAR saving blood supplies or Prompter AI taming chaotic to-do lists.
+💻 Mastering: Zustand, Hugging Face, Manifest v3, Embedded AI
+💼 Freelancing: Scalable web apps, AI tools, and bots
+⚡ Fun fact: My crop AI bot speaks more languages than I do!
+🤝 Open to: Collab on open-source AI, web, or embedded projects
+🎵 Outside tech: Gym sessions, music vibes, and inventing new creations
 - 📫 Reach me at: <a href="mailto:mithurnjeromme172@email.com">mithurnjeromme172@email.com</a>
 - More about me: https://mithurnjeromme.vercel.app
 
