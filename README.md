@@ -84,6 +84,10 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mithurn&label=Profile%20Views&color=000000&style=for-the-badge)
+
+
 <p align="center">
   <img src="https://media1.tenor.com/m/W8haesvUr3wAAAAC/iron-man-marvel.gif" width="300px" />
 </p>
