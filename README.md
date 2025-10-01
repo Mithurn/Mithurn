@@ -85,7 +85,9 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mithurn&label=Profile%20Views&color=000000&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mithurn&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
+</p>
 
 
 <p align="center">
