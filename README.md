@@ -76,17 +76,46 @@ src="https://media1.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"/>
 
 
 </div>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+### 🚀 Check out my Product
+
+<img
+  align="right"
+  src="https://raw.githubusercontent.com/Mithurn/Mithurn/main/assets/openlog.png"
+  width="420"
+/>
+
+#### **OpenLog — Product Pulse & Changelog**
+
+You're shipping without knowing what users want.  
+OpenLog turns scattered product signals into clear direction so you know what to fix, ship, and communicate next.
+
+- 📌 Publish changelogs in seconds (web + CLI)
+- ⚡ Built for teams that ship often
+- 🎯 Designed for clarity, ownership, and clean UX
+
+🌐 **Live:** https://openlog.tech  
+🛠️ **Stack:** React • TypeScript • Node.js • Supabase
+
+<br clear="right"/>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<div>
+  
+</div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithurn&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mithurn&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mithurn&theme=radical&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=Mithurn&theme=radical" />
 </p>
 
 
