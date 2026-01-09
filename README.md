@@ -4,19 +4,26 @@
 
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About Me***
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">
+<b>About Me</b>
 
-<img align="right" width="220px"  alt="cyberpunk hacker gif" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhxZW8yamQ0ZmpiN3QxejJveHBycHdhcGNsbGxzOXF6MzZyaTdueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"/>
+<img align="right" width="220px"
+src="https://media1.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"/>
 
-🌟 Mithun Jeromme — CS student at SRM IST, obsessed with crafting cool stuff like beautifull websites, AI bots and useful chrome extensions that make a difference.
-🚀 I build impactful solutions—think RAKT-RADAR saving blood supplies or Prompter AI taming chaotic to-do lists.
-💻 Mastering: Zustand, Hugging Face, Manifest v3, Embedded AI
-💼 Freelancing: Scalable web apps, AI tools, and bots
-⚡ Fun fact: My crop AI bot speaks more languages than I do!
-🤝 Open to: Collab on open-source AI, web, or embedded projects
-🎵 Outside tech: Gym sessions, music vibes, and inventing new creations
-- 📫 Reach me at: <a href="mailto:mithurnjeromme172@email.com">mithurnjeromme172@email.com</a>
-- More about me: https://mithurnjeromme.vercel.app
+🌟 I am a **product builder** who enjoys taking ideas from zero to shipped, owned, and improved.  
+
+🚀 I love building **real products**, thinking in terms of users, trade-offs, and long-term impact rather than just code. I take responsibility for what I build, from UX decisions to performance and reliability.  
+
+💻 I work mainly with **Next.js, Node.js, FastAPI, PostgreSQL**, and cloud tooling to ship fast, scalable web products.  
+
+⚡ I’m driven by **ownership, execution, and entrepreneurship**, fewer half-finished ideas, more things that actually work in the real world.  
+
+🎵 Outside tech: gym sessions, music, and constantly experimenting with new product ideas.
+
+- 📫 Reach me at: <a href="mailto:mithurnjeromme172@gmail.com">mithurnjeromme172@gmail.com</a>  
+- 🌐 Portfolio: https://mithurnjerommeweb.vercel.app
+
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -40,32 +47,30 @@
 
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk5djY1NWR3OWE5bjk4bXJvdWJsb3Iza2N2dWJwdTg5czhvMGcxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kd9BlRovbPOykLBMqX/giphy.gif" width="220px" alt="coding gif" />
 
-### 💡 **Skills**
 
 
+### 💡 Skills
 
-#### 👨‍💻 Languages & Core
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 👨‍💻 Core Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql)
 
-#### ⚙️ Frameworks / Libraries
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)&nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=hugging-face&logoColor=black)
+#### ⚙️ Product Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-#### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif)&nbsp;
-![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+#### 🛠️ Shipping & Infrastructure
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-</div>
 
 <!-- GIF right and vertically centered -->
 
@@ -77,10 +82,13 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithurn&theme=radical&show_icons=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithurn&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithurn&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithurn&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mithurn&theme=radical&cache_seconds=1800" />
+</p>
+
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
