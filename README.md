@@ -82,9 +82,10 @@ src="https://media1.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"/>
 
 <img
   align="right"
-  src="https://raw.githubusercontent.com/Mithurn/Mithurn/main/assets/openlog.png"
+  src="https://raw.githubusercontent.com/Mithurn/Mithurn/main/laptop.png"
   width="420"
 />
+
 
 #### **OpenLog — Product Pulse & Changelog**
 
@@ -108,15 +109,25 @@ OpenLog turns scattered product signals into clear direction so you know what to
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***GitHub Stats***
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mithurn&show_icons=true&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mithurn&theme=radical" />
-</p>
+### 🚀 **HOW I BUILD PRODUCTS**
+
+<br/>
+
+**Clarity over noise. Ownership over output. Shipping over talking.**
+
+<br/>
+
+• 🧠 Start with the problem, not the tech  
+• ⚡ Ship fast, then iterate with real feedback  
+• 🎯 Optimize for clarity, not feature count  
+• 🧩 Own the product end-to-end  
+
+</div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
