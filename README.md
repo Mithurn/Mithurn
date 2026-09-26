@@ -10,7 +10,7 @@
 <img align="right" width="220px"
 src="https://media1.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"/>
 
-🌟 I am a **product builder** who enjoys taking ideas from zero to shipped, owned, and improved.  
+🌟 I am a **product Engineer** who enjoys taking ideas from zero to shipped, owned, and improved.  
 
 🚀 I love building **real products**, thinking in terms of users, trade-offs, and long-term impact rather than just code. I take responsibility for what I build, from UX decisions to performance and reliability.  
 
