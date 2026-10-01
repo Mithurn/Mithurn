@@ -39,6 +39,20 @@ src="https://media1.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"/>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+### 📊 GitHub Activity
+
+<!-- PROFILE-README:UPDATED:START -->
+<!-- PROFILE-README:UPDATED:END -->
+
+<div align="center">
+  <img src="./assets/stats.svg" alt="GitHub stats" height="165" />
+  <img src="./assets/top-langs.svg" alt="Top languages" height="165" />
+  <br />
+  <img src="./assets/streak.svg" alt="GitHub contribution streak" />
+</div>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <!-- GIF aligned right and vertically centered using a flex container -->
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
