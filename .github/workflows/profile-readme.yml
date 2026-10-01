@@ -21,21 +21,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate GitHub stats card
-        uses: stats-organization/github-readme-stats-action@v2.1.0
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide_border=true&count_private=false
-          path: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=radical&hide_border=true&count_private=false
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF6B00&count_private=false
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg?palette=github
+            assets/snake-dark.svg?palette=github-dark&color_snake=FF6B00
 
       - name: Generate contribution streak card
         uses: DenverCoder1/github-readme-streak-stats@v1.8.0

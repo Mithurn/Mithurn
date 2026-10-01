@@ -42,10 +42,15 @@ src="https://media1.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"/>
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="./assets/stats.svg" alt="GitHub stats" height="165" />
-  <img src="./assets/top-langs.svg" alt="Top languages" height="165" />
-  <br />
   <img src="./assets/streak.svg" alt="GitHub contribution streak" />
+  <br /><br />
+  <img src="./assets/top-langs.svg" alt="Top languages" />
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
+    <img src="./assets/snake.svg" alt="Contribution snake" />
+  </picture>
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
