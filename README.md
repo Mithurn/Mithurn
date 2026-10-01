@@ -39,22 +39,6 @@ src="https://media1.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"/>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="./assets/streak.svg" alt="GitHub contribution streak" />
-  <br /><br />
-  <img src="./assets/top-langs.svg" alt="Top languages" />
-  <br /><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
-    <img src="./assets/snake.svg" alt="Contribution snake" />
-  </picture>
-</div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
 <!-- GIF aligned right and vertically centered using a flex container -->
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
@@ -87,6 +71,8 @@ src="https://media1.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"/>
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
+#### 📈 Most Used on GitHub
+<img src="./assets/top-langs.svg" alt="Top languages" height="130" />
 
 <!-- GIF right and vertically centered -->
 
