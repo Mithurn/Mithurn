@@ -75,4 +75,5 @@ jobs:
           git add assets/*.svg README.md
           git diff --staged --quiet && echo "No changes to commit." && exit 0
           git commit -m "chore(profile): refresh GitHub stats cards"
+          git pull --rebase origin main
           git push
