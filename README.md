@@ -21,7 +21,7 @@ src="https://media1.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif"/>
 🎵 Outside tech: gym sessions, music, and constantly experimenting with new product ideas.
 
 - 📫 Reach me at: <a href="mailto:mithurnjeromme172@gmail.com">mithurnjeromme172@gmail.com</a>  
-- 🌐 Portfolio: https://mithurnjerommeweb.vercel.app
+- 🌐 Portfolio: https://mithurnjeromme.vercel.app
 
 
 
